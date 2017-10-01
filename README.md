@@ -31,7 +31,7 @@ Project uses -
 
 ### Todos
 
- - Add the plots and inferences on the README file
+ - Add the plots and inferences to the README file
 
 
    [Python]: <https://www.python.org/>
