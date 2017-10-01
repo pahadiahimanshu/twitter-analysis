@@ -34,7 +34,7 @@ Project uses -
  - Add the plots and inferences on the README file
 
 [//]: # (
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to)
 
 
