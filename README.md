@@ -33,10 +33,6 @@ Project uses -
 
  - Add the plots and inferences on the README file
 
-[//]: # (
-
-These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to)
-
 
    [Python]: <https://www.python.org/>
    [tweepy]: <http://www.tweepy.org/>
