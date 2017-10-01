@@ -7,6 +7,8 @@ import os
 # from tweepy.streaming import StreamListener
 from tweepy import User
 
+# Make functions for easy use
+
 # Change this hashtag for query
 QUERY = 'FakeNews'
 

@@ -15,6 +15,8 @@ import plotly.graph_objs as go
 
 # nltk.download("stopwords")
 
+# Make functions for easy use & use some database instead of text file for storing tweets
+
 # Change the database file name here
 FILE = 'fakenewsdb-retweets.txt'
 OUTPUT = 'fakenews'

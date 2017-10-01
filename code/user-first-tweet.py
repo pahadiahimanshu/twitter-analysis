@@ -1,7 +1,7 @@
 import time
 import tweepy
 
-username = 'ponguru'
+username = 'pahadiahimanshu'
 consumer_key = 'EtYBJlCZRg5KG3k6IlBzhBcWO'
 consumer_secret = '1z3YZEQ3zZ2VM422jbwcsfdCtk7tWTTapH6Hw4BdB3nb5xXo6N'
 access_token = '602494393-2bDuHWFELWezzUKDgvmSOEZrMwaON3ZWBZIc7apm'
